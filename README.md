@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewKalGit
 - 👀 I’m interested in Boxing, Front End Dev, and Singing!
-- 🌱 JavaScript, HTML, and CSS are my go to, as I am into browser based apps!
+- 🌱 Python and JavaScript are my go to, as I am into browser based apps!
 - 📫 How to reach me andrewkal327@gmail.com
 
 <!---
