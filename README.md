@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewKalGit
-- 👀 I’m interested in Computer Science, Web Development, Software Engineering, Fitness, and Boxing!
+- 👀 I’m interested in Web Development and Fitness!
 - 🌱 Python and JavaScript are my go to!
 - 📫 How to reach me andrewkal327@gmail.com
 
