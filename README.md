@@ -7,7 +7,7 @@
 - 📫 How to reach me andrewkal327@gmail.com
 - 🔗 [Link: to Projects and Code]([https://github.com/AndrewKalGit/Public-Directory/blob/main/README.md]) 
 
-- 📲 [Link: to my Blogs (Tech)]([https://dev.to/morethan2searches])
+- 📲 [Link: to my Blogs (Tech)]([https://dev.to/morethan2searches])(url)
 - 📘 [Link: to my Blogs (Life)]([https://andkal.blog)
 
 <!---
