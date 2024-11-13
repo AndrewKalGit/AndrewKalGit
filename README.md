@@ -10,7 +10,7 @@
 **Portfolios**
 - 💼 [Link: Dev Portfolio (Full-stack Software Development)](https://andrewkalgit.netlify.app)
 - ✍️ [Link: Freelance Portfolio (Web & App Development)](https://andrewkalgig.netlify.app)
-- 👨🏻‍💻 [Link: Live Project Portfolio (Web, App, & Scripts](https://andrewkalgit.netlify.app)
+- 👨🏻‍💻 [Link: Live Project Portfolio (Web, App, & Scripts)](https://andrewkalgit.netlify.app)
 
 **Contact**
 - 📫 How to reach me andrewkal327@gmail.com
