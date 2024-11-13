@@ -5,7 +5,7 @@
 - 🖼 React.js, Next.js, React Native, and Spring
 - 🌻 Web Applications, eCommerce, iOS Development, and REST API Development
 - 🧐 Interesting Software Topics: Data Structures, Algorithms, UX, and QA
-- 🔗 [Link: Directory to all my public Projects and Code](https://github.com/AndrewKalGit/Public-Directory/blob/main/README.md)
+- 🔗 [Link: Quick Directory to all my public Projects and Code](https://github.com/AndrewKalGit/Public-Directory/blob/main/README.md)
 
 **Portfolios**
 - 💼 [Link: Dev Portfolio (Full-stack Software Development)](https://andrewkalgit.netlify.app)
