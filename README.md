@@ -1,8 +1,8 @@
 **Intro**
 - 👋 Hi, I’m @AndrewKalGit
 - 👀 My Hobbies: Software Development, Content Creation, and Fitness
-- 🌱 JavaScript, Java, and Oracle
-- 🖼 React.js, Next.js, React Native, and Spring
+- 🌱 JavaScript, TypeScript, and Python
+- 🖼 React.js, Next.js, and React Native
 - 🌻 Web Applications, eCommerce, iOS Development, and REST API Development
 - 🧐 Interesting Software Topics: Data Structures, Algorithms, UX, and QA
 - 🔗 [Link: Quick Directory of all my public Projects and Code](https://github.com/AndrewKalGit/Public-Directory/blob/main/README.md)
