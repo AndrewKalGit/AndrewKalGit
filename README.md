@@ -1,23 +1,21 @@
 **Intro**
 - 👋 Hi, I’m @AndrewKalGit
-- 👀 My Hobbies: Software Development, Content Creation, and Fitness
-- 🌱 JavaScript, TypeScript, and Python
-- 🖼 React.js, Next.js, and React Native
-- 🌻 Web Applications, eCommerce, iOS Development, and REST API Development
-- 🧐 Interesting Software Topics: Data Structures, Algorithms, UX, and QA
-- 🔗 [Link: Quick Directory of all my public Projects and Code](https://github.com/AndrewKalGit/Public-Directory/blob/main/README.md)
+- 👀 My Hobbies: Content Creation, and Fitness
+- 🌱 JavaScript, TypeScript, Node.js, Python and Java
+- 🖼 React.js, Next.js, Django
+- 🌻 Web Applications, Lead Generation Sites, and REST API Development
+- 🧐 Go to Software Topics: Data Structures, Algorithms, and UX
 
 **Portfolios**
-- 💼 [Link: Dev Portfolio (Full-stack Software Development)](https://andrewkalgit.netlify.app)
-- ✍️ [Link: Freelance Portfolio (Web & App Development)](https://andrewkalgig.netlify.app)
-- 👨🏻‍💻 [Link: Live Project Portfolio (Web, App, & Scripts)](https://andrewkalgit.netlify.app)
+- 👨🏻‍💻 [Link: CS to Dev (Skills Platform)](https://cstodev.io)
+- ✍️ [Link: DIY Software Blog (Custom Blog Development)](https://diysoftware.blog)
 
+**Client Work**
+- 💸 [Link: Financial Soltuions Agency](https://echoweb.design) 
+- 💊 [Link: Intergrative Health and Medicine](https://echoweb.design)
+ 
 **Contact**
 - 📫 How to reach me andrewkal327@gmail.com
-
-**Blog**
-- 📲 [Link: to my Blogs (UX Design, QA, & Project Management)](https://dev.to/morethan2searches)
-- 📘 [Link: to my Blogs (Software Design)](https://dzone.com/andrewkalgit)
 
 <!---
 AndrewKalGit/AndrewKalGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
