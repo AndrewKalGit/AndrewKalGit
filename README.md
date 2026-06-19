@@ -1,9 +1,9 @@
 **Intro**
 - 👋 Hi, I’m @AndrewKalGit
 - 👀 My Hobbies: Playing with my cat, and Fitness
-- 🌱 JavaScript, TypeScript, Node.js
+- 🌱 Python, JavaScript, TypeScript, Node.js
 - 🖼 Next.js
-- 🌻 Web Applications, Lead Generation Sites, and REST API Development
+- 🌻 Web Applications, SEO, Lead Generation Sites, and REST API Development
 - 🧐 Go to Software Topics: Data Structures, Algorithms, and UX
 
 **Contact**
