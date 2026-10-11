@@ -1,8 +1,7 @@
 **Intro**
 - 👋 Hi, I’m @AndrewKalGit
-- 🚚 Logistics & 📦 Supply Chain Focused Software (ERP Augments, Micro SaaS Development, VBA, Macros, Automations)
 - 👀 My Hobbies: Playing with my cat, and Fitness
-- 🌱 Python, OfficeScript, JavaScript, TypeScript, Node.js
+- 🌱 Python, JavaScript, TypeScript
 - 🖼 Next.js
 - 🌻 Web Applications, SEO, Lead Generation Sites, and REST API Development
 - 🧐 Go to Software Topics: Data Structures, Algorithms, and UX
